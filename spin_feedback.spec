@@ -7,6 +7,7 @@ License:	LGPLv2+
 URL:		http://www.rexursive.com/software/modspin/applications.html
 Source0:	ftp://ftp.rexursive.com/pub/spinapps/feedback/%{name}-%{version}.tar.bz2
 Requires:	apache-mod_spin >= 1.1.8
+BuildRequires:	apache-devel
 BuildRequires:	apache-mod_spin-devel >= 1.1.8
 BuildRequires:	autoconf2.5
 BuildRequires:	bison
