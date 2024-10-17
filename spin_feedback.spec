@@ -4,7 +4,7 @@ Version:	1.2.0
 Release:	%mkrel 3
 Group:		System/Servers
 License:	LGPLv2+
-URL:		http://www.rexursive.com/software/modspin/applications.html
+URL:		https://www.rexursive.com/software/modspin/applications.html
 Source0:	ftp://ftp.rexursive.com/pub/spinapps/feedback/%{name}-%{version}.tar.bz2
 Requires:	apache-mod_spin >= 1.1.8
 BuildRequires:	apache-devel
