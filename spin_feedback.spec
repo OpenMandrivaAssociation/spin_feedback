@@ -1,7 +1,7 @@
 Summary:	Web site feedback mod_spin application
 Name:		spin_feedback
 Version:	1.2.0
-Release:	%mkrel 3
+Release:	4
 Group:		System/Servers
 License:	LGPLv2+
 URL:		https://www.rexursive.com/software/modspin/applications.html
